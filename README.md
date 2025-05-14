@@ -6,6 +6,7 @@ CommuniGlove is an innovative smart wearable designed to address these issues. T
 Using machine learning algorithms, CommuniGlove recognizes predefined gestures and converts them into text or commands. Bluetooth connectivity allows real-time communication with smartphones or computers, while vibration feedback notifies users of successful actions or incoming messages. For added accessibility, integrated text-to-speech functionality enables vocal output, making the glove useful even for users who wish to communicate with those unfamiliar with sign language.
 
 By combining gesture recognition, AI, and haptic feedback, CommuniGlove creates an intuitive, inclusive, and versatile communication platform, transforming the way people connect in both everyday and extreme environments.
+demo:https://youtu.be/wuRVKKptWsc?si=H6ixc6RHVqAUnBW-
 ![WhatsApp Image 2025-04-06 at 13 48 26_13916053](https://github.com/user-attachments/assets/0e42d688-74bd-41d0-bb8f-b8ba9a8d8488)
 
 
